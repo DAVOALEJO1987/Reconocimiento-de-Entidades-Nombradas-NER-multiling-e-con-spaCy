@@ -25,6 +25,16 @@ o	Muestra el resultado de manera legible para el usuario.
 
 4. Acumulación de resultados
 •	Uso de collections.Counter para almacenar y contar el número de entidades por tipo a lo largo de todos los textos procesados.
-5. Resumen global
+
+6. Resumen global
 •	El programa finaliza mostrando un resumen con el conteo total de entidades por tipo.
 •	Este resumen permite comparar qué tipo de entidades fueron más comunes en el conjunto de textos.
+
+## Resultados
+
+<img width="646" height="435" alt="image" src="https://github.com/user-attachments/assets/ec1128e7-ad28-4f0c-8f7d-9faf7bb7f7a1" />
+
+
+<img width="544" height="240" alt="image" src="https://github.com/user-attachments/assets/f1da9508-f02f-40c2-ba47-1bce1dfbc743" />
+
+
