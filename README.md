@@ -37,4 +37,16 @@ o	Muestra el resultado de manera legible para el usuario.
 
 <img width="544" height="240" alt="image" src="https://github.com/user-attachments/assets/f1da9508-f02f-40c2-ba47-1bce1dfbc743" />
 
+Actividad 2: TF-IDF con Nuevos Textos 
+Notebook: NLP_Ejercicios_Taller_TFIDF_Analisis_Sentimiento.ipynb 
+Instrucciónes: 
+Ejecutar hasta la sección del cálculo de TF-IDF. 
+Reemplazar los textos originales por 2 textos nuevos (pueden ser opiniones, párrafos de artículos o contenido de redes sociales, mínimo 100 palabras cada uno) en espanol. 
+Observa qué palabras tienen los valores de TF-IDF más altos. 
+
+<img width="761" height="559" alt="image" src="https://github.com/user-attachments/assets/e11b2a3f-3e59-4b6d-91ac-6b23c2ab7ea2" />
+
+<img width="831" height="452" alt="image" src="https://github.com/user-attachments/assets/6ff55398-0770-4c23-8731-2057da42a357" />
+
+<img width="820" height="467" alt="image" src="https://github.com/user-attachments/assets/0d371b5b-b6cc-4184-830a-6b3cefd68052" />
 
